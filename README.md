@@ -14,4 +14,4 @@ Train/Dev/Test at 8:1:1.
 
 
 ## Code
-Our implementation was based on Llama-Factory[https://github.com/hiyouga/LLaMA-Factory].  
+Our implementation was based on [Llama-Factory][https://github.com/hiyouga/LLaMA-Factory].  
