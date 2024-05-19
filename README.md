@@ -1,5 +1,5 @@
 # TOREE
-This is the official repo for ACL2024 paper Evaluating Topic Relevance of Student Essays: Dataset, Tasks, and Method for Chinese Primary and Middle School Education
+This is the official repo for ACL2024 paper TOREE: Evaluating Topic Relevance of Student Essays for Chinese Primary and Middle School Education
 
 
 
