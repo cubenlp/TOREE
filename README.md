@@ -10,7 +10,7 @@ The TOREE dataset is licensed under the BSD 3-Clause License - NonCommercial. Yo
 
 
 ## Dataset
-Train/Dev/Test at 8:1:1. Please send email to xinlinzhuang@stu.ecnu.edu,cn for obtaining TOREE.
+Train/Dev/Test at 8:1:1. Please send email to xinlinzhuang@stu.ecnu.edu.cn for obtaining TOREE.
 
 
 ## Code
